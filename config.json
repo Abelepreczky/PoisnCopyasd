@@ -1,8 +1,8 @@
 ﻿{
   "discord": {
-    "token": "MTE5MDA3NDE5MTMyODg1ODE5NA.GnADzH.vIjmf6KFhEI15ylIg2VS-ldjIQoYJ1_2G4eEXs",
-    "appId": "1190074191328858194",
-    "appSecret": "R2TQMKgNzEN4sDBgPzKOAKrBB0maD_NW",
+    "token": "",
+    "appId": "",
+    "appSecret": "",
     "CommandPrefix": "!"
   }
 }
